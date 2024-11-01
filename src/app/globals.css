@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#insta{
+    height: 70px;
+    width: 70px;
+    border-radius: 5px;
+   
+    padding-bottom: 5px;
+}
+#facbook{
+    height: 100px;
+    width: 100px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+    background-color: #250202;
+    color: white;
+    text-align: center;
+}
+#pic2{
+    font-size: large;
+    color: black;
+    display: inline-block;
+  padding-left: 480px;
+}
+
+#button1{
+    background-color: rgb(202, 224, 40); /* Green background */
+  color: #fff; /* White text */
+  border: none; /* Remove default border */
+  padding: 10px 20px; /* Add padding */
+  font-size: 16px; /* Set font size */
+  cursor: pointer; /* Change cursor on hover */
+  border-radius: 5px; /* Add rounded corners */
+}
+   
+ 
+
+#navbar{
+    background-color: black;
+    color: white;
+    height: 60px; ;
+    
+}
+#button{
+    background-color: rgb(202, 224, 40); /* Green background */
+    color: #250202; /* White text */
+    border: none; /* Remove default border */
+    padding: 5px 10px; /* Add padding */
+    font-size: 16px; /* Set font size */
+    cursor: pointer; /* Change cursor on hover */
+    border-radius: 5px; /* Add rounded corners */
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+
+
+#logo{
+    text-align: left;
+    color: rgb(202, 224, 40);
+    font-size: 28px;
+    font-family: Matura MT Script Capitals;
+    padding-left: 50px;
+}
+#home1{
+    background-color: rgb(247, 242, 242);
+    margin-top: 20px;
+}
+                        /*home page start*/
+    #home{
+        text-align: center;
+        position: relative;
+       color: rgb(127, 28, 28);
+       font-size: xx-large;
+    }
+    #img1{
+        display: inline-block;
+        margin-right: 20px;
+        height: 300px;
+        width: 600px; ;
+        padding-left: 100px;
+        
+       
+       
+       }
+   #img2{
+    display: inline-block;
+    height: 300px;
+    width: 300px; ;
+   };
+
+
+
+
+
+
+
+
+                        /*contact us page styling*/
+
+                        #facbook{
+                            height: 200px;
+                            width: 100px;
+                        }
+
